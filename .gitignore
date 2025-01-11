@@ -1,0 +1,7 @@
+# Virtual environment folder
+venv/
+
+# Environment variables file
+.env
+
+cleaned_coffee_sales_dataset
